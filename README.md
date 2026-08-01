@@ -1,9 +1,9 @@
-# 🎧 Spotify Analytics — Análise dos Meus Dados de Escuta
+# Spotify Analytics: Análise dos Meus Dados de Escuta
 
 Projeto de análise de dados pessoais do Spotify usando a **Web API** oficial.
 Coleta meus top artistas, top músicas e gera visualizações com insights sobre meu gosto musical.
 
-## 📊 Resultados
+##R sultados
 ### Duração média de musicas ouvidas em todos os tempos
 <img width="1600" height="960" alt="duracao_musicas_todos_os_tempos" src="https://github.com/user-attachments/assets/b05f80ed-99cc-4db7-a9de-7fb420476aee" />
 
@@ -28,7 +28,7 @@ Coleta meus top artistas, top músicas e gera visualizações com insights sobre
 - Artista mais ouvido: **Joji**
 - Duração média das músicas: **3.2 minutos**
 
-## ⚠️ Sobre limitações da API do Spotify
+## Limitações da API do Spotify
 
 O Spotify descontinuou alguns recursos da Web API que originalmente seriam
 usados neste projeto:
@@ -40,14 +40,14 @@ usados neste projeto:
 
 Por isso, a análise aqui foca em: ranking de artistas/músicas mais ouvidos e duração das faixas — dados que ainda estão disponíveis.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Python
 - [Spotipy](https://spotipy.readthedocs.io/) — wrapper da Web API do Spotify
 - Pandas — manipulação e análise de dados
 - Matplotlib / Seaborn — visualização de dados
 
-## 🚀 Como rodar
+## Como rodar
 
 ### 1. Clone o repositório
 ```bash
@@ -82,7 +82,7 @@ python analysis.py
 ```
 Os gráficos serão salvos na pasta `output/`.
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 ```
 spotify-analytics/
 ├── fetch_data.py      # Coleta dados via Spotify Web API
@@ -94,7 +94,7 @@ spotify-analytics/
 └── README.md
 ```
 
-## 💡 Possíveis melhorias futuras
+## Possíveis melhorias futuras
 - Dashboard interativo com Streamlit
 - Análise de evolução do gosto musical ao longo do tempo
 - Comparação de perfil sonoro entre playlists
