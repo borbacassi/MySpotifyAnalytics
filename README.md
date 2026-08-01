@@ -1,8 +1,7 @@
 # 🎧 Spotify Analytics — Análise dos Meus Dados de Escuta
 
 Projeto de análise de dados pessoais do Spotify usando a **Web API** oficial.
-Coleta meus top artistas, top músicas e características sonoras (dançabilidade,
-energia, humor, etc.) e gera visualizações com insights sobre meu gosto musical.
+Coleta meus top artistas, top músicas e gera visualizações com insights sobre meu gosto musical.
 
 ## 📊 Resultados
 <img width="1600" height="960" alt="duracao_musicas" src="https://github.com/user-attachments/assets/4643f480-6701-4dfb-be89-1e34f22fd483" />
@@ -18,10 +17,8 @@ energia, humor, etc.) e gera visualizações com insights sobre meu gosto musica
 
 ### Principais Insights
 <!-- Preencha depois de rodar o projeto. Exemplos: -->
-- Artista mais ouvido: **[preencher]**
-- Gênero predominante: **[preencher]**
-- Duração média das músicas: **[preencher] minutos**
-- Artistas fiéis (aparecem no top 10 em todos os períodos): **[preencher]**
+- Artista mais ouvido: **Joji**
+- Duração média das músicas: **3.2 minutos**
 
 ## ⚠️ Sobre limitações da API do Spotify
 
@@ -33,8 +30,7 @@ usados neste projeto:
 - **Campos `popularity` e `followers`**: removidos das respostas da API na
   migração de fevereiro/2026.
 
-Por isso, a análise aqui foca em: ranking de artistas/músicas mais ouvidos,
-gêneros musicais e duração das faixas — dados que ainda estão disponíveis.
+Por isso, a análise aqui foca em: ranking de artistas/músicas mais ouvidos e duração das faixas — dados que ainda estão disponíveis.
 
 ## 🛠️ Tecnologias
 
