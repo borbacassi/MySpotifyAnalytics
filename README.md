@@ -4,15 +4,23 @@ Projeto de análise de dados pessoais do Spotify usando a **Web API** oficial.
 Coleta meus top artistas, top músicas e gera visualizações com insights sobre meu gosto musical.
 
 ## 📊 Resultados
-<img width="1600" height="960" alt="duracao_musicas" src="https://github.com/user-attachments/assets/4643f480-6701-4dfb-be89-1e34f22fd483" />
+### Duração média de musicas ouvidas em todos os tempos
 <img width="1600" height="960" alt="duracao_musicas_todos_os_tempos" src="https://github.com/user-attachments/assets/b05f80ed-99cc-4db7-a9de-7fb420476aee" />
-<img width="1600" height="960" alt="duracao_musicas_ultimas_4_semanas" src="https://github.com/user-attachments/assets/930709dd-3416-46f2-bd6b-c59bedb8da54" />
-<img width="1600" height="960" alt="duracao_musicas_ultimos_6_meses" src="https://github.com/user-attachments/assets/712a63b8-5d43-4843-89c8-e8588e713b76" />
-<img width="1600" height="1040" alt="top_artistas" src="https://github.com/user-attachments/assets/e35f72d5-7711-48f7-9b1f-99f76445c5f0" />
-<img width="1600" height="1040" alt="top_artistas_todos_os_tempos" src="https://github.com/user-attachments/assets/58bd0cc4-460e-474f-aeb3-70963ec66648" />
-<img width="1600" height="1040" alt="top_artistas_ultimas_4_semanas" src="https://github.com/user-attachments/assets/b3d9cc94-0af6-4a2f-ad86-4771363f0551" />
-<img width="1600" height="1040" alt="top_artistas_ultimos_6_meses" src="https://github.com/user-attachments/assets/82cb9467-a590-491c-8fbe-d8e7a87a72a3" />
 
+### Duração média de musicas ouvidas nas últimas 4 semanas
+<img width="1600" height="960" alt="duracao_musicas_ultimas_4_semanas" src="https://github.com/user-attachments/assets/930709dd-3416-46f2-bd6b-c59bedb8da54" />
+
+### Duração média de musicas ouvidas nos últimos 6 meses
+<img width="1600" height="960" alt="duracao_musicas_ultimos_6_meses" src="https://github.com/user-attachments/assets/712a63b8-5d43-4843-89c8-e8588e713b76" />
+
+### Top Artistas de todos os tempos
+<img width="1600" height="1040" alt="top_artistas_todos_os_tempos" src="https://github.com/user-attachments/assets/58bd0cc4-460e-474f-aeb3-70963ec66648" />
+
+### Top Artistas ouvidos nas últimas 4 semanas
+<img width="1600" height="1040" alt="top_artistas_ultimas_4_semanas" src="https://github.com/user-attachments/assets/b3d9cc94-0af6-4a2f-ad86-4771363f0551" />
+
+### Top Artistas ouvidos nos últimos 6 meses
+<img width="1600" height="1040" alt="top_artistas_ultimos_6_meses" src="https://github.com/user-attachments/assets/82cb9467-a590-491c-8fbe-d8e7a87a72a3" />
 
 
 ### Principais Insights
